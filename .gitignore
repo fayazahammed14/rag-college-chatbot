@@ -1,0 +1,28 @@
+# Environment files & Secrets (NEVER COMMIT)
+.env
+.env.local
+.env.*.local
+*.env
+
+# Dependencies
+node_modules/
+venv/
+env/
+.venv/
+
+# Build outputs
+dist/
+build/
+.next/
+
+# Python Cache & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
