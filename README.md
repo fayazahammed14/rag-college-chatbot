@@ -95,7 +95,7 @@ College students and prospective applicants frequently struggle to find accurate
 
 ## 5. Live Demo
 
-- **Frontend (Vercel)**: `https://your-project.vercel.app` *(Replace with your deployed Vercel URL)*
+- **Frontend (Vercel)**: `https://rag-college-chatbot-sigma.vercel.app`
 - **Demo Admin Account**: `admin@campusmind.edu` / `Admin@12345`
 
 ---
