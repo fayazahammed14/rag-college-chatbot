@@ -102,9 +102,9 @@ College students and prospective applicants frequently struggle to find accurate
 
 ## 6. Backend API
 
-- **Backend Base URL (Render)**: `https://your-backend.onrender.com` *(Replace with your deployed Render URL)*
-- **Interactive Swagger Docs**: `https://your-backend.onrender.com/docs`
-- **Health Check**: `https://your-backend.onrender.com/api/health`
+- **Backend Base URL (Render)**: `https://rag-college-backend-iq8v.onrender.com`
+- **Interactive Swagger Docs**: `https://rag-college-backend-iq8v.onrender.com/docs`
+- **Health Check**: `https://rag-college-backend-iq8v.onrender.com/api/health`
 
 ---
 
